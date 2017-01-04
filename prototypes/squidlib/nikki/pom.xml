@@ -21,5 +21,11 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+	<!-- https://mvnrepository.com/artifact/com.squidpony/squidlib -->
+	<dependency>
+	    <groupId>com.squidpony</groupId>
+	    <artifactId>squidlib</artifactId>
+	    <version>1.95</version>
+	</dependency>
   </dependencies>
 </project>
